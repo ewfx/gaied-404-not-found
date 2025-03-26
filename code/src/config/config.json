@@ -1,0 +1,18 @@
+{
+  "HUGGINGFACE_API_KEY": "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",
+  "huggingface_model": "mistralai/Mistral-7B-Instruct-v0.2",
+  "classification_model": "facebook/bart-large-mnli",
+  "huggingface_classification_model": "facebook/bart-large-mnli",
+  "candidate_labels": [
+    "Loan Modification",
+    "Fraud Report",
+    "Document Request",
+    "General Inquiry"
+  ],
+  "routing_teams": [
+    "Loan Processing Team",
+    "Fraud Investigation Team",
+    "Document Review Team",
+    "Customer Support"
+  ]
+}
